@@ -7,14 +7,9 @@ Tutorial for React To run the project:
 3. Run `npm start`
 
 
-
-
-
-
-
 `git init (to create folder on local folder)`
-git add .
-git commit -m"first commit"
-git push`
+`git add .`
+`git commit -m"first commit"`
+`git push`
 
 
