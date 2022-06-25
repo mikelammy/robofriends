@@ -8,9 +8,9 @@ Tutorial for React To run the project:
 
 
 
-### git init (to create folder on local folder)
-### git add .
-### git commit -m"first commit"
-### git push
+`git init (to create folder on local folder)
+git add .
+git commit -m"first commit"
+git push`
 
 
